@@ -2,4 +2,4 @@
 
 ## 1. hello world! 실행화면
 
-<img src =''>
+<img src ='' width='300'>
