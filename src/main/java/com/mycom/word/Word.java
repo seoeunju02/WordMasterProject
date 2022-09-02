@@ -50,7 +50,6 @@ public class Word  {
                  +"  "+meaning;
          return str;
 
-
     }
 }
  
