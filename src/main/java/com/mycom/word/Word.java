@@ -49,6 +49,7 @@ public class Word  {
                  +String.format("%15s",word)   //오른쪽 정렬
                  +"  "+meaning;
          return str;
+
     }
 }
  
