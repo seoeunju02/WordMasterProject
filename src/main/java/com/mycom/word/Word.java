@@ -2,9 +2,11 @@ package com.mycom.word;
 
 public class Word  {
     private int id;
+
     private int level;
     private String word;
     private String meaning;
+
 
     Word(){}
     Word(int id,int level,String word,String meaning){
@@ -13,7 +15,6 @@ public class Word  {
         this.word=word;
         this.meaning=meaning;
     }
-
     public int getId(){
         return id;
     }
