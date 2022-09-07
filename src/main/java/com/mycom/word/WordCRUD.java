@@ -9,6 +9,7 @@ public class WordCRUD implements ICRUD {
     WordCRUD(Scanner s){
         list = new ArrayList<>();
         this.s=s;
+
     }
     @Override
     public Object add() {
