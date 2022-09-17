@@ -17,7 +17,6 @@
 2|stroll|거닐다, 산책하다
 1|stock|주식, 재고
 2|eye-opener|눈이 휘둥그레질 만한 사건, 놀라운 경험
-1|graceful|우아한
 2|seagull|갈매기
 1|tightly|단단히
 2|webbed|물갈퀴가 있는
